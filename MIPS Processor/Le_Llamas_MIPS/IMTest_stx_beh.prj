@@ -1,0 +1,3 @@
+verilog isim_temp "InstructioMem.v"
+verilog isim_temp "IMTest.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

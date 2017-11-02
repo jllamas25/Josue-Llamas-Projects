@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/ALU.xst" -ofn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/ALU.xst" -ofn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/ALU.xst" -ofn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/ALU.syr" 

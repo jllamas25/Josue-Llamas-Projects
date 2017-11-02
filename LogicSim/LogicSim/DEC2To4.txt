@@ -1,0 +1,6 @@
+3	YO	AND	1	2	-
+4	Y1	AND	1	B	-
+5	Y2	AND	2	A	-
+6	Y3	AND	A	B	-
+1	NOTA	NOT	A	-	-
+2	NOTB	NOT	B	-	-

@@ -1,0 +1,477 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Reading design: DataMemory.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "DataMemory.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "DataMemory"
+Output Format                      : NGC
+Target Device                      : xc3s100e-5-vq100
+
+---- Source Options
+Top Module Name                    : DataMemory
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 500
+Add Generic Clock Buffer(BUFG)     : 24
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "Mux.v" in library work
+Compiling verilog file "Mux2to16.v" in library work
+Module <Mux> compiled
+Compiling verilog file "Mux8to16bit.v" in library work
+Module <Mux2to16> compiled
+Compiling verilog file "DFF.v" in library work
+Module <Mux8to16bit> compiled
+Compiling verilog file "mux16to1.v" in library work
+Module <DFF> compiled
+Compiling verilog file "Dmux16.v" in library work
+Module <mux16to1> compiled
+Compiling verilog file "DFF16bit.v" in library work
+Module <Dmux16> compiled
+Compiling verilog file "AND16bit.v" in library work
+Module <DFF16bit> compiled
+Compiling verilog file "DataMemory.v" in library work
+Module <AND16bit> compiled
+Module <DataMemory> compiled
+No errors in compilation
+Analysis of file <"DataMemory.prj"> succeeded.
+ 
+
+=========================================================================
+*                     Design Hierarchy Analysis                         *
+=========================================================================
+Analyzing hierarchy for module <DataMemory> in library <work>.
+
+Analyzing hierarchy for module <Dmux16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <DFF16bit> in library <work>.
+
+Analyzing hierarchy for module <mux16to1> in library <work>.
+
+Analyzing hierarchy for module <AND16bit> in library <work>.
+
+Analyzing hierarchy for module <Mux> in library <work>.
+
+Analyzing hierarchy for module <DFF> in library <work>.
+
+Analyzing hierarchy for module <Mux8to16bit> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux2to16> in library <work>.
+
+Analyzing hierarchy for module <Mux> in library <work>.
+
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing top module <DataMemory>.
+Module <DataMemory> is correct for synthesis.
+ 
+Analyzing module <Dmux16> in library <work>.
+Module <Dmux16> is correct for synthesis.
+ 
+Analyzing module <Mux2to16> in library <work>.
+Module <Mux2to16> is correct for synthesis.
+ 
+Analyzing module <Mux> in library <work>.
+Module <Mux> is correct for synthesis.
+ 
+Analyzing module <DFF16bit> in library <work>.
+Module <DFF16bit> is correct for synthesis.
+ 
+Analyzing module <DFF> in library <work>.
+Module <DFF> is correct for synthesis.
+ 
+Analyzing module <mux16to1> in library <work>.
+Module <mux16to1> is correct for synthesis.
+ 
+Analyzing module <Mux8to16bit> in library <work>.
+Module <Mux8to16bit> is correct for synthesis.
+ 
+Analyzing module <AND16bit> in library <work>.
+Module <AND16bit> is correct for synthesis.
+ 
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Performing bidirectional port resolution...
+
+Synthesizing Unit <Dmux16>.
+    Related source file is "Dmux16.v".
+Unit <Dmux16> synthesized.
+
+
+Synthesizing Unit <AND16bit>.
+    Related source file is "AND16bit.v".
+Unit <AND16bit> synthesized.
+
+
+Synthesizing Unit <Mux>.
+    Related source file is "Mux.v".
+Unit <Mux> synthesized.
+
+
+Synthesizing Unit <DFF>.
+    Related source file is "DFF.v".
+    Found 1-bit register for signal <Q>.
+    Summary:
+	inferred   1 D-type flip-flop(s).
+Unit <DFF> synthesized.
+
+
+Synthesizing Unit <Mux2to16>.
+    Related source file is "Mux2to16.v".
+Unit <Mux2to16> synthesized.
+
+
+Synthesizing Unit <DFF16bit>.
+    Related source file is "DFF16bit.v".
+Unit <DFF16bit> synthesized.
+
+
+Synthesizing Unit <Mux8to16bit>.
+    Related source file is "Mux8to16bit.v".
+Unit <Mux8to16bit> synthesized.
+
+
+Synthesizing Unit <mux16to1>.
+    Related source file is "mux16to1.v".
+Unit <mux16to1> synthesized.
+
+
+Synthesizing Unit <DataMemory>.
+    Related source file is "DataMemory.v".
+WARNING:Xst:647 - Input <addr<15:4>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+Unit <DataMemory> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Registers                                            : 256
+ 1-bit register                                        : 256
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Registers                                            : 256
+ Flip-Flops                                            : 256
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <DataMemory> ...
+
+Optimizing unit <DFF16bit> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block DataMemory, actual ratio is 15.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 256
+ Flip-Flops                                            : 256
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : DataMemory.ngr
+Top Level Output File Name         : DataMemory
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : No
+
+Design Statistics
+# IOs                              : 51
+
+Cell Usage :
+# BELS                             : 231
+#      GND                         : 1
+#      LUT2                        : 4
+#      LUT3                        : 64
+#      LUT4                        : 128
+#      MUXF5                       : 34
+# FlipFlops/Latches                : 256
+#      FDCE                        : 256
+# Clock Buffers                    : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 38
+#      IBUF                        : 22
+#      OBUF                        : 16
+=========================================================================
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 3s100evq100-5 
+
+ Number of Slices:                      181  out of    960    18%  
+ Number of Slice Flip Flops:            256  out of   1920    13%  
+ Number of 4 input LUTs:                196  out of   1920    10%  
+ Number of IOs:                          51
+ Number of bonded IOBs:                  39  out of     66    59%  
+ Number of GCLKs:                         1  out of     24     4%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+TIMING REPORT
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)  | Load  |
+-----------------------------------+------------------------+-------+
+clk                                | BUFGP                  | 256   |
+-----------------------------------+------------------------+-------+
+
+Asynchronous Control Signals Information:
+----------------------------------------
+------------------------------------+------------------------+-------+
+Control Signal                      | Buffer(FF name)        | Load  |
+------------------------------------+------------------------+-------+
+DReg1/dff16[0]/nClear_inv(XST_GND:G)| NONE(DReg1/dff16[0]/Q) | 256   |
+------------------------------------+------------------------+-------+
+
+Timing Summary:
+---------------
+Speed Grade: -5
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: 5.570ns
+   Maximum output required time after clock: 7.354ns
+   Maximum combinational path delay: 8.775ns
+
+Timing Detail:
+--------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'clk'
+  Total number of paths / destination ports: 1536 / 512
+-------------------------------------------------------------------------
+Offset:              5.570ns (Levels of Logic = 3)
+  Source:            addr<2> (PAD)
+  Destination:       DReg16/dff16[15]/Q (FF)
+  Destination Clock: clk rising
+
+  Data Path: addr<2> to DReg16/dff16[15]/Q
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            39   1.106   1.227  addr_2_IBUF (addr_2_IBUF)
+     LUT2:I0->O            4   0.612   0.651  loadout_4_and000011 (N5)
+     LUT4:I0->O           16   0.612   0.879  loadout_7_and00001 (loadout<7>)
+     FDCE:CE                   0.483          DReg8/dff16[15]/Q
+    ----------------------------------------
+    Total                      5.570ns (2.813ns logic, 2.757ns route)
+                                       (50.5% logic, 49.5% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clk'
+  Total number of paths / destination ports: 256 / 16
+-------------------------------------------------------------------------
+Offset:              7.354ns (Levels of Logic = 5)
+  Source:            DReg2/dff16[15]/Q (FF)
+  Destination:       dataout<15> (PAD)
+  Source Clock:      clk rising
+
+  Data Path: DReg2/dff16[15]/Q to dataout<15>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDCE:C->Q             1   0.514   0.426  DReg2/dff16[15]/Q (DReg2/dff16[15]/Q)
+     LUT3:I1->O            1   0.612   0.000  ANDout/s_15_and0000220_F (N54)
+     MUXF5:I0->O           1   0.278   0.387  ANDout/s_15_and0000220 (ANDout/s_15_and0000220)
+     LUT4:I2->O            1   0.612   0.387  ANDout/s_15_and0000248 (ANDout/s_15_and0000248)
+     LUT4:I2->O            1   0.612   0.357  ANDout/s_15_and0000292 (dataout_15_OBUF)
+     OBUF:I->O                 3.169          dataout_15_OBUF (dataout<15>)
+    ----------------------------------------
+    Total                      7.354ns (5.797ns logic, 1.557ns route)
+                                       (78.8% logic, 21.2% route)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 288 / 16
+-------------------------------------------------------------------------
+Delay:               8.775ns (Levels of Logic = 6)
+  Source:            addr<0> (PAD)
+  Destination:       dataout<15> (PAD)
+
+  Data Path: addr<0> to dataout<15>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O           143   1.106   1.255  addr_0_IBUF (addr_0_IBUF)
+     LUT3:I0->O            1   0.612   0.000  ANDout/s_9_and0000220_F (N18)
+     MUXF5:I0->O           1   0.278   0.387  ANDout/s_9_and0000220 (ANDout/s_9_and0000220)
+     LUT4:I2->O            1   0.612   0.387  ANDout/s_9_and0000248 (ANDout/s_9_and0000248)
+     LUT4:I2->O            1   0.612   0.357  ANDout/s_9_and0000292 (dataout_9_OBUF)
+     OBUF:I->O                 3.169          dataout_9_OBUF (dataout<9>)
+    ----------------------------------------
+    Total                      8.775ns (6.389ns logic, 2.386ns route)
+                                       (72.8% logic, 27.2% route)
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 9.00 secs
+Total CPU time to Xst completion: 8.36 secs
+ 
+--> 
+
+Total memory usage is 275748 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   17 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

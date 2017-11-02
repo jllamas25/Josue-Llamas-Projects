@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Le_Llamas_MIPS" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|ALU.v/F1 - TwosComplementaddersub</ClosedNode>
+         <ClosedNode>/ALU C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|ALU.v/and_or - mux16bit</ClosedNode>
+         <ClosedNode>/ALU C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|ALU.v/math_logic - mux16bit</ClosedNode>
+         <ClosedNode>/DFF16bit C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DFF16bit.v</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg1 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg10 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg11 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg12 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg13 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg14 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg15 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg16 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg2 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg3 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg4 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg5 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg6 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg7 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg8 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/DReg9 - DFF16bit</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/MUXout - mux16to1</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux1 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux10 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux11 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux12 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux13 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux14 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux15 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux16 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux2 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux3 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux4 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux5 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux6 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux7 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux8 - Mux2to16</ClosedNode>
+         <ClosedNode>/DataMemory C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DataMemory.v/mux9 - Mux2to16</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/Addshft - UnsignedAdder</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/DM - DataMemory</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/PCadd - UnsignedAdder</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/PCount - pc</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/alu - ALU</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/alu - ALU/F1 - TwosComplementaddersub</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/alu - ALU/and_or - mux16bit</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/alu - ALU/math_logic - mux16bit</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/branchmux - Mux2to16</ClosedNode>
+         <ClosedNode>/Mux2to16 C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|Mux2to16.v</ClosedNode>
+         <ClosedNode>/Mux8to16bit C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|Mux8to16bit.v</ClosedNode>
+         <ClosedNode>/UnsignedAdder C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|UnsignedAdder.v</ClosedNode>
+         <ClosedNode>/mux16to1 C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|mux16to1.v</ClosedNode>
+         <ClosedNode>/pc C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|pc.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>MIPS (C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/MIPS.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000145000000020000000000000000000000000200000064ffffffff000000810000000300000002000001450000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>MIPS (C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/MIPS.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002f2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002260000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Adder.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000c9000000010001000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Synthesize - XST</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000b8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000b80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Synthesize - XST</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ControlTest C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|ControlTest.v</ClosedNode>
+         <ClosedNode>/DMTest C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|DMTest.v</ClosedNode>
+         <ClosedNode>/IMTest C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|IMTest.v</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/Addshft - UnsignedAdder</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/DM - DataMemory</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/PCadd - UnsignedAdder</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/PCount - pc</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/alu - ALU</ClosedNode>
+         <ClosedNode>/MIPS C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MIPS.v/branchmux - Mux2to16</ClosedNode>
+         <ClosedNode>/MipsTest C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|MipsTest.v</ClosedNode>
+         <ClosedNode>/PCTest C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|PCTest.v</ClosedNode>
+         <ClosedNode>/mux16to1 C:|Users|Josue Llamas|Desktop|ECE|ECE425L|Le_Llamas_MIPS|mux16to1.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>PCTest (C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/PCTest.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000d2000000020000000000000000000000000200000064ffffffff000000810000000300000002000000d20000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>PCTest (C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/PCTest.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

@@ -1,0 +1,79 @@
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Controlunit.ngc Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 
+xst -intstyle ise -ifn "C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/Controlunit.xst" -ofn "C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/Controlunit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "Controlunit.ngc" Controlunit.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Controlunit_map.ncd Controlunit.ngd Controlunit.pcf 
+par -w -intstyle ise -ol high -t 1 Controlunit_map.ncd Controlunit.ncd Controlunit.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Controlunit.twx Controlunit.ncd -o Controlunit.twr Controlunit.pcf 

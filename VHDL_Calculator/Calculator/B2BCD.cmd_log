@@ -1,0 +1,17 @@
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+xst -intstyle ise -ifn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.xst" -ofn "C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 B2BCD.ngc B2BCD.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o B2BCD_map.ncd B2BCD.ngd B2BCD.pcf 
+par -w -intstyle ise -ol high -t 1 B2BCD_map.ncd B2BCD.ncd B2BCD.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml B2BCD.twx B2BCD.ncd -o B2BCD.twr B2BCD.pcf 

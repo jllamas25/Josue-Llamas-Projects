@@ -1,0 +1,3 @@
+vhdl work "FAadder.vhd"
+vhdl work "PA4.vhd"
+vhdl work "AddSub.vhd"

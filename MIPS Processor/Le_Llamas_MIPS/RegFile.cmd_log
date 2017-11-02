@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/RegFile.xst" -ofn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/RegFile.syr" 
+xst -intstyle ise -ifn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/RegFile.xst" -ofn "C:/Users/Josue Llamas/Desktop/ECE/ECE425L/Le_Llamas_MIPS/RegFile.syr" 

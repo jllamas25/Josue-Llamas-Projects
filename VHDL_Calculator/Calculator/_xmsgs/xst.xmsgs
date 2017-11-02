@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/Controlunit</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/Controlunit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/Controlunit/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/Controlunit.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/Controlunit.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/AddSub</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/AddSub.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/AddSub.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/AddSub/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/AddSub.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/AddSub.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/ArrayDivider</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/ArrayDivider.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/ArrayDivider.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/ArrayDivider/ArrayDividerA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/ArrayDivider.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/ArrayDivider.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/B2BCD</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/B2BCD.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/B2BCD/B2BCDA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/B2BCD.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/B2BCD.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/PM4</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/PM4.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/PM4.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/PM4/PM4A</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/PM4.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/PM4.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/FA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/FA.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/FA.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/FA/FAA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/FA.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/FA.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/FAdiv</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/FAdiv.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/FAdiv.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/FAdiv/FAdivA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/FAdiv.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/FAdiv.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/PA4add</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/PA4.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/PA4.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/PA4add/PA4AA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/PA4.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/PA4.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/FAadder</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/FAadder.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/FAadder.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/FAadder/FAAA</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/Gllamas/Documents/ECE424L/Calculator/FAadder.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/Josue Llamas/Desktop/ECE/ECE424L/Calculator/FAadder.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">sin</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">cin</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">sin</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">bi</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">S3</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">S2&lt;3&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">S1&lt;3&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">S&lt;3&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">ov</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+</messages>
+
